@@ -9,6 +9,10 @@ Hi, I'm Minhaz Ahmed! 👋<br><br>I'm a passionate web developer with a strong f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MinhazMinu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazMinu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/MinhazMinu/MinhazMinu/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MinhazMinu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
