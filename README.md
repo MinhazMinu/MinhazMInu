@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm <b>Minhazul Taher</b>, Software Developer who spends most of their time convincing a computer to do what I want. So far, the computer is winning.
+<div align="center">Hello! I'm <b>Minhazul Taher</b>, Software Developer who spends most of their time convincing a computer to do what I want. So far, the computer is winning.
 
 Primary Stack: React, Laravel, Node, Python and existential dread.
 
@@ -6,7 +6,7 @@ Hobbies: Debugging, thinking about debugging, and occasionally sleeping.
 
 My greatest skill: Handling AI to turning coffee into code .
 
-Disclaimer: My commit messages are generally terrible, but my code (usually) runs.</h1>
+Disclaimer: My commit messages are generally terrible, but my code (usually) runs.</div>
 
 ###
 
