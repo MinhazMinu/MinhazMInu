@@ -49,8 +49,8 @@ I spend most of my time convincing a computer to do exactly what I want. **So fa
 ### 📊 My GitHub Stats (Proof I'm Not Just Thinking About Debugging)
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MinhazMinu&theme=dark&hide_border=false" alt="trophy graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=MinhazMinu&theme=dark&hide_border=false" alt="trophy graph"  />
 </div>
 
 <div align="center">
